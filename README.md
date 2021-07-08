@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a flutter food delivery ui created while learning flutter ui concepts
 
 A few resources to get you started if this is your first Flutter project:
 
